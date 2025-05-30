@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dac7hh294-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/dac7hh294-java-quarkus-gitops
